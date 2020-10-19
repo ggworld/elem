@@ -47,3 +47,6 @@ In Rivery (the example is taken from our MySQL source connection), you will have
 image.png
 
 Just set the instance hostname (or IP), instance SSH port (mostly 22), SSH username, and Password if wanted, and then upload the SSH KeyPair file (.pem/.pub) provided when creating the instance in AWS.
+
+from:
+https://rivery.io/docs/creating-and-configuring-ssh-tunnel-instance-over-aws-instances
